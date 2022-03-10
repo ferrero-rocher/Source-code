@@ -13,5 +13,6 @@ public class Pattern5b {
             }
             System.out.println(" ");
         }
+
     }
 }
