@@ -12,7 +12,7 @@ public class Main {
             sum=sum+arr[i];
             if(sum>target)
             {
-                sum=sum-arr[i];
+                 sum=sum-arr[i];
                  count++;
                  sum=arr[i];
 
