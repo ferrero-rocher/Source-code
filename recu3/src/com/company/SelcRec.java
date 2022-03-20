@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class SelcRec {
     public static void main(String[] args) {
         int[] nums = {20,10,5,49,2,4};
+
         Selection(nums,nums.length-1);
 
         System.out.println(Arrays.toString(nums));
